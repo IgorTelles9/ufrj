@@ -1,5 +1,8 @@
 # -*- coding: utf-8 -*-
-
+""" 
+this code was the final assignment of my linear algebra class
+it's a simple linear regression algorithm with an even simpler classification algorithm. But it works just fine!
+"""
 import numpy as np
 import pandas as pd
 
